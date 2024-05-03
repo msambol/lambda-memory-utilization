@@ -1,6 +1,6 @@
 # lambda-memory-utilization
 
-* [Reduce AWS Lambda Cost by Monitoring Memory Utilization]()
+* [Reduce AWS Lambda Cost by Monitoring Memory Utilization](https://medium.com/p/66c29b9d4ce9)
 
 ## Architecture
 
